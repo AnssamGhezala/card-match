@@ -1,8 +1,8 @@
 # Welcome to card-match ♣️
-A simple card matching game :)
+A simple card matching game :) Check it out [here](https://codesandbox.io/s/clever-waterfall-r4q4e)
 
 ## About
-This game was made following [this article]() which explains in details how I made it.
+This game was made following upcoming [this article]() which explains in details how I made it.
 
 ## How to play
 Click on a card to see it's hidden picture. Try to find another card which has the same picture as that card. 
